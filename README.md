@@ -1,8 +1,8 @@
-# DuBois-409
+# [DuBois-409](https://github.com/Woke-Mind/DuBois-409.git)
 
-- https://www.nypl.org/blog/2022/07/27/409-edgecombe-harlem-fashionable-address Meet the Neighbors of 409 Edgecombe, One of Harlem’s Most Fashionable Addresses
+- [Meet the Neighbors of 409 Edgecombe](https://www.nypl.org/blog/2022/07/27/409-edgecombe-harlem-fashionable-address), One of Harlem’s Most Fashionable Addresses
 
-- https://archives.nypl.org/scm/186050#overview 409 Edgecombe collection 1878-1987 [bulk 1920-1960] D
+- [409 Edgecombe collection 1878-1987 [bulk 1920-1960] D](https://archives.nypl.org/scm/186050#overview)
   ... Harold Tamarin. Due to Tamarin's failure to pay taxes, the city took ownership of the building in 1979, and it was converted to an HDFC co-op ...
 
 ## Images
