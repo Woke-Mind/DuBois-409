@@ -5,6 +5,10 @@
 - [409 Edgecombe collection 1878-1987 [bulk 1920-1960] D](https://archives.nypl.org/scm/186050#overview)
   ... Harold Tamarin. Due to Tamarin's failure to pay taxes, the city took ownership of the building in 1979, and it was converted to an HDFC co-op ...
 
+- [whilewearestillhere](https://whilewearestillhere.org/) While We Are Still Here is a 501(c)(3) organization that includes long-term residents of 409 and 555 Edgecombe Avenue.
+  - [W.E.B. DU BOIS](https://whilewearestillhere.org/katherine-butler-jones#7ac2fa5a-ae61-468e-9ebc-0c76dbd12b52) was a Pan-Africanist, scholar, sociologist, activist, editor, poet, and playwright
+  - [Shirley Graham Du Bois](https://whilewearestillhere.org/katherine-butler-jones#1a05941c-993e-4ff5-92e1-c9c179be5557) was a Pan-Africanist, scholar, sociologist, activist, editor, poet, and playwright
+    
 ## Images
 
 ![IMG_2240](images/IMG_2240.jpeg)
