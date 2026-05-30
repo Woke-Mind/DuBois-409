@@ -10,7 +10,7 @@
   - [Shirley Graham Du Bois](https://whilewearestillhere.org/katherine-butler-jones#1a05941c-993e-4ff5-92e1-c9c179be5557) was a Pan-Africanist, scholar, sociologist, activist, editor, poet, and playwright
     
 ## Images
-
+photos on display in the lobby of 409 edgecombe ave. family home of the thompsons and the dookies begining in the 1970's
 ![IMG_2240](images/IMG_2240.jpeg)
 ![IMG_2241](images/IMG_2241.jpeg)
 ![IMG_2242](images/IMG_2242.jpeg)
