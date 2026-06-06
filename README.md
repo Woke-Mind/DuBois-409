@@ -11,7 +11,9 @@
 
 ## Images
 
-photos on display in the lobby of 409 edgecombe ave. family home of the thompsons and the dookies begining in the 1970's
+photos on display in the lobby of 409 edgecombe ave. family home of the thompsons and the dookies begining in the 1970's. my family resident in unit 2F, and my uncle felix and family resided in 1F. uncle felix was the superintendent and he help move my family (his sister mable, my mom) from the bronx to 409. under uncle felix's supervision was about (9x13) 117 units of 409 edgecome ave.
+
+- [In 1993, the building was given landmark status by New York City](https://archives.nypl.org/scm/186050#overview)
 
 ![IMG_4127](images/IMG_4127.jpeg)
 ![IMG_4128](images/IMG_4128.jpeg)
