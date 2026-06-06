@@ -8,9 +8,18 @@
 - [whilewearestillhere](https://whilewearestillhere.org/) While We Are Still Here is a 501(c)(3) organization that includes long-term residents of 409 and 555 Edgecombe Avenue.
   - [W.E.B. DU BOIS](https://whilewearestillhere.org/katherine-butler-jones#7ac2fa5a-ae61-468e-9ebc-0c76dbd12b52) was a Pan-Africanist, scholar, sociologist, activist, editor, poet, and playwright
   - [Shirley Graham Du Bois](https://whilewearestillhere.org/katherine-butler-jones#1a05941c-993e-4ff5-92e1-c9c179be5557) was a Pan-Africanist, scholar, sociologist, activist, editor, poet, and playwright
-    
+
 ## Images
+
 photos on display in the lobby of 409 edgecombe ave. family home of the thompsons and the dookies begining in the 1970's
+
+![IMG_4127](images/IMG_4127.jpeg)
+![IMG_4128](images/IMG_4128.jpeg)
+![IMG_4131](images/IMG_4131.jpeg)
+![IMG_4132](images/IMG_4132.jpeg)
+![IMG_4133](images/IMG_4133.jpeg)
+![IMG_4134](images/IMG_4134.jpeg)
+![IMG_4135](images/IMG_4135.jpeg)
 ![IMG_2240](images/IMG_2240.jpeg)
 ![IMG_2241](images/IMG_2241.jpeg)
 ![IMG_2242](images/IMG_2242.jpeg)
@@ -32,3 +41,4 @@ photos on display in the lobby of 409 edgecombe ave. family home of the thompson
 ![IMG_3790](images/IMG_3790.jpeg)
 ![IMG_3791](images/IMG_3791.jpeg)
 ![IMG_3792](images/IMG_3792.jpeg)
+![IMG_4136](images/IMG_4136.jpeg)
